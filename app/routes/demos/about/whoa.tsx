@@ -4,7 +4,7 @@ export default function Whoa() {
   return (
     <div>
       <p>
-        Whoa, this is a nested route! We render the <code>/about</code> layout
+        , this is a nested route! We render the <code>/about</code> layout
         route component, and its <code>Outlet</code> renders our route
         component. 🤯
       </p>
